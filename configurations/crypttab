@@ -1,0 +1,2 @@
+encrypted /dev/disk/by-id/ata-Samsung_SSD_860_EVO_250GB_S3Y9NX0M267475A-part3 none luks,tries=3
+encrypted-swap /dev/disk/by-id/wwn-0x5000c5007fba2be4-part2 /dev/urandom swap,cipher=aes-cbc-essiv:sha256,size=256
